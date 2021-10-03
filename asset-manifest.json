@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.8d6c6bee.chunk.css",
-    "main.js": "/portfolio/static/js/main.9353a015.chunk.js",
-    "main.js.map": "/portfolio/static/js/main.9353a015.chunk.js.map",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.37da8305.js",
-    "runtime-main.js.map": "/portfolio/static/js/runtime-main.37da8305.js.map",
-    "static/js/2.a733df0e.chunk.js": "/portfolio/static/js/2.a733df0e.chunk.js",
-    "static/js/2.a733df0e.chunk.js.map": "/portfolio/static/js/2.a733df0e.chunk.js.map",
-    "index.html": "/portfolio/index.html",
-    "static/css/main.8d6c6bee.chunk.css.map": "/portfolio/static/css/main.8d6c6bee.chunk.css.map",
-    "static/js/2.a733df0e.chunk.js.LICENSE.txt": "/portfolio/static/js/2.a733df0e.chunk.js.LICENSE.txt",
-    "static/media/1.ff71981d.jpg": "/portfolio/static/media/1.ff71981d.jpg",
-    "static/media/2.a8f05ae9.jpg": "/portfolio/static/media/2.a8f05ae9.jpg",
-    "static/media/3.76c0e95a.jpg": "/portfolio/static/media/3.76c0e95a.jpg",
-    "static/media/bigImg2.75e56128.jpg": "/portfolio/static/media/bigImg2.75e56128.jpg",
-    "static/media/wroclaw.085428d5.jpg": "/portfolio/static/media/wroclaw.085428d5.jpg"
+    "main.css": "/static/css/main.8d6c6bee.chunk.css",
+    "main.js": "/static/js/main.ef0e669a.chunk.js",
+    "main.js.map": "/static/js/main.ef0e669a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
+    "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
+    "static/js/2.a733df0e.chunk.js": "/static/js/2.a733df0e.chunk.js",
+    "static/js/2.a733df0e.chunk.js.map": "/static/js/2.a733df0e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.8d6c6bee.chunk.css.map": "/static/css/main.8d6c6bee.chunk.css.map",
+    "static/js/2.a733df0e.chunk.js.LICENSE.txt": "/static/js/2.a733df0e.chunk.js.LICENSE.txt",
+    "static/media/1.ff71981d.jpg": "/static/media/1.ff71981d.jpg",
+    "static/media/2.a8f05ae9.jpg": "/static/media/2.a8f05ae9.jpg",
+    "static/media/3.76c0e95a.jpg": "/static/media/3.76c0e95a.jpg",
+    "static/media/bigImg2.75e56128.jpg": "/static/media/bigImg2.75e56128.jpg",
+    "static/media/wroclaw.085428d5.jpg": "/static/media/wroclaw.085428d5.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.37da8305.js",
+    "static/js/runtime-main.f027f2bf.js",
     "static/js/2.a733df0e.chunk.js",
     "static/css/main.8d6c6bee.chunk.css",
-    "static/js/main.9353a015.chunk.js"
+    "static/js/main.ef0e669a.chunk.js"
   ]
 }
