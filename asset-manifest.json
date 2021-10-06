@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.0e9984b8.chunk.css",
-    "main.js": "/static/js/main.a0c18b2d.chunk.js",
-    "main.js.map": "/static/js/main.a0c18b2d.chunk.js.map",
+    "main.js": "/static/js/main.de09a914.chunk.js",
+    "main.js.map": "/static/js/main.de09a914.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.f027f2bf.js",
     "runtime-main.js.map": "/static/js/runtime-main.f027f2bf.js.map",
     "static/js/2.900b2833.chunk.js": "/static/js/2.900b2833.chunk.js",
@@ -14,13 +14,13 @@
     "static/media/2.a8f05ae9.jpg": "/static/media/2.a8f05ae9.jpg",
     "static/media/3.76c0e95a.jpg": "/static/media/3.76c0e95a.jpg",
     "static/media/bigImg2.75e56128.jpg": "/static/media/bigImg2.75e56128.jpg",
-    "static/media/softwareperson.11f4f102.pdf": "/static/media/softwareperson.11f4f102.pdf",
+    "static/media/softwareperson.fc88fc69.pdf": "/static/media/softwareperson.fc88fc69.pdf",
     "static/media/wroclaw.085428d5.jpg": "/static/media/wroclaw.085428d5.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.f027f2bf.js",
     "static/js/2.900b2833.chunk.js",
     "static/css/main.0e9984b8.chunk.css",
-    "static/js/main.a0c18b2d.chunk.js"
+    "static/js/main.de09a914.chunk.js"
   ]
 }
